@@ -1,0 +1,4 @@
+usernameInput_loginPage: com.example.myapplication:id/username
+passwordInput_loginPage: com.example.myapplication:id/password
+signInButton_loginPage: com.example.myapplication:id/signIn
+loginSucceed: com.example.myapplication:id/textView

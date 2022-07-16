@@ -1,0 +1,3 @@
+logo_homepage: com.example.myapplication:id/imageView4
+mainImage_homepage: com.example.myapplication:id/imageView
+loginButton_homepage: com.example.myapplication:id/login

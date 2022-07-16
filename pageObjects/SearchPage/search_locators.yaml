@@ -1,0 +1,5 @@
+searchButton_loginPage: com.example.myapplication:id/search_flight
+flightNumber_text: com.example.myapplication:id/enterFlight
+enter_flightNumber: com.example.myapplication:id/flight_number
+searchButton_searchPage: com.example.myapplication:id/searchFlight
+flightInfo: //*[@text="DA 935"]

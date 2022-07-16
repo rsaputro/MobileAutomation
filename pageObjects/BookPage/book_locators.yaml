@@ -1,0 +1,14 @@
+bookButton_loginPage: com.example.myapplication:id/book
+startDate_button: com.example.myapplication:id/textStartDate
+headerDate: android:id/date_picker_header_date
+bookButton_bookPage: com.example.myapplication:id/book_flight
+fromCity_list: com.example.myapplication:id/spinnerFrom
+toCity_list: com.example.myapplication:id/spinnerTo
+withClass_list: com.example.myapplication:id/spinnerClass
+setDate_ok: android:id/button1
+endDate_button: com.example.myapplication:id/textEndDate
+flightRadio_button: com.example.myapplication:id/radioButtonFlight
+confirmPrice_text: com.example.myapplication:id/textView6
+priceList: xpath=/hierarchy/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.view.ViewGroup
+confirmPrice_button: com.example.myapplication:id/confirm_order
+flight_booked: com.example.myapplication:id/checkedTextView
